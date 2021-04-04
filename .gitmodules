@@ -1,0 +1,6 @@
+[submodule "pwa"]
+	path = pwa
+	url = https://github.com/uralaca/pwa.git
+[submodule "core"]
+	path = core
+	url = https://github.com/uralaca/core.git
